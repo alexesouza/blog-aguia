@@ -1,0 +1,79 @@
+header{
+    background-color: rgb(199, 14, 216);
+    margin: 10px;
+    height: 80%;
+    right: 80%;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    text-decoration: none;
+    margin: 50px;
+    
+
+}
+li {
+    list-style-type: none;
+  }
+
+
+#flex-box{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+.caixa1{
+    display: block;
+    margin: 10px;
+    background-color: rgb(228, 228, 228);
+    border-radius: 30px;
+        width: 700px;
+        height: 300px;
+       
+        padding:10px;
+        align-items: center;
+       
+}
+
+#box1{
+    margin: 5px;
+    height: 15%;
+    border-radius: 3px;
+    display: flex;
+    justify-content: space-between;
+}
+
+
+#box2{
+    margin: 5px;
+    height: 50%;
+    right: 50%;
+    
+    border-radius: 10px;
+    padding-top: 20px;
+}
+
+#b2{
+   
+    text-align: center;
+    margin: 20px;
+    border-radius: 5px;
+}
+#b22{
+    
+    text-align: center;
+    margin: 50px;
+    border-radius: 10px;
+}
+
+.rodape {
+    background-color: rgb(199, 14, 216);
+    text-align: center;
+
+    height: 50px;
+    right: 50px;
+
+}
